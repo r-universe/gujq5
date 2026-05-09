@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MMAD"]
 	path = MMAD
-	url = https://github.com/cran/MMAD
+	url = https://github.com/gujq5/mmad
